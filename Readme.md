@@ -1,4 +1,4 @@
-‼️ Credit to [Milan Jovanovic](https://github.com/m-jovanovic) whose template improved the way I design projects and is a blessing to self-taught devs 🦾
+‼️ Credit to [Milan Jovanovic](https://github.com/m-jovanovic) whose template improved the way I design projects and who is a blessing to self-taught devs 🦾
 
 # WIP Toward a Minimal Vertical Slice / Modular Monolith Starting Point.
 
